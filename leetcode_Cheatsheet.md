@@ -1,7 +1,7 @@
 leetcode Cheatsheet
 
 <details>
-<summery> Two pointers: one input, opposite ends </summery>
+  <summery>Two pointers: one input, opposite ends</summery>
 
 ```python
 def fn(arr):
@@ -18,4 +18,11 @@ def fn(arr):
     return ans
 
 ```
+</details>
+
+<details>
+  <summary>Click to expand the dropdown</summary>
+  
+  This is the hidden content that appears when you click the dropdown button.
+  
 </details>
