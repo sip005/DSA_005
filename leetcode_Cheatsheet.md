@@ -1,6 +1,5 @@
 leetcode Cheatsheet
 
-// Two pointers: one input, opposite ends 
 <details>
   <summary>Two pointers: one input, opposite ends</summary>
 
@@ -21,8 +20,6 @@ def fn(arr):
 
 </details>
 
-
-// Two pointers: two inputs, exhaust both
 <details>
   <summary>Two pointers: two inputs, exhaust both</summary>
   
