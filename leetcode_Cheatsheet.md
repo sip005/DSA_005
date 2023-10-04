@@ -1,7 +1,9 @@
-leetcode Cheatsheet
+### leetcode Cheatsheet
 
+
+##### Two pointers: one input, opposite ends
 <details>
-  <summary>Two pointers: one input, opposite ends</summary>
+  <summary>Two pointers: one input, opposite ends - python3</summary>
 
 ```python
 def fn(arr):
@@ -20,8 +22,9 @@ def fn(arr):
 
 </details>
 
+##### Two pointers: two inputs, exhaust both
 <details>
-  <summary>Two pointers: two inputs, exhaust both</summary>
+  <summary>Two pointers: two inputs, exhaust both - python3</summary>
   
 ```python
 def fn(arr1, arr2):
